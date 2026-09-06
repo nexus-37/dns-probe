@@ -99,7 +99,7 @@ REPEATS=2 ./dns_probe_v4.sh
 
 ## Вопросы
 
-Пишите нам в соцсети — там дежурят люди, которые ответят:
+Пишите нам в соцсети:
 - Facebook: [facebook.com/TeplitsaST](https://www.facebook.com/TeplitsaST)
 - Instagram: [instagram.com/teplitsast](https://www.instagram.com/teplitsast)
 - Telegram-бот: [@teplitsa_contact_bot](https://t.me/teplitsa_contact_bot)
